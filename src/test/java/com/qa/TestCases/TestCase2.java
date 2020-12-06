@@ -15,7 +15,7 @@ System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishal mittal\\Downloa
 		
 
 		WebDriver driver = new ChromeDriver();	
-		//driver.manage().window().maximize();
+		driver.manage().window().maximize();
 		driver.get("https://mail.rediff.com/cgi-bin/login.cgi");
 		//click on sign button
 		
