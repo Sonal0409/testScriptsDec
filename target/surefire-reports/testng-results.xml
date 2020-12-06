@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumTraining" duration-ms="56245" started-at="2020-12-06T04:18:13Z" finished-at="2020-12-06T04:19:10Z">
+    <groups>
+    </groups>
+    <test name="TestNGScripts" duration-ms="56245" started-at="2020-12-06T04:18:13Z" finished-at="2020-12-06T04:19:10Z">
+      <class name="com.qa.TestCases.TestCasewiki">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qa.TestCases.TestCasewiki@1afc369]" name="test1" duration-ms="26452" started-at="2020-12-06T04:18:30Z" finished-at="2020-12-06T04:18:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.qa.TestCases.TestCasewiki -->
+      <class name="com.qa.TestCases.TestCase1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.TestCases.TestCase1@16da883]" name="setup" is-config="true" duration-ms="9311" started-at="2020-12-06T04:18:13Z" finished-at="2020-12-06T04:18:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="wikiPage()[pri:0, instance:com.qa.TestCases.TestCase1@16da883]" name="wikiPage" duration-ms="3085" started-at="2020-12-06T04:18:23Z" finished-at="2020-12-06T04:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikiPage -->
+        <test-method status="PASS" signature="wikiPage2()[pri:0, instance:com.qa.TestCases.TestCase1@16da883]" name="wikiPage2" duration-ms="4276" started-at="2020-12-06T04:18:26Z" finished-at="2020-12-06T04:18:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wikiPage2 -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.qa.TestCases.TestCase1@16da883]" name="closebrowser" is-config="true" duration-ms="496" started-at="2020-12-06T04:19:09Z" finished-at="2020-12-06T04:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.qa.TestCases.TestCase1 -->
+      <class name="com.qa.TestCases.TestCase2">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.qa.TestCases.TestCase2@19d4f69]" name="Test1" duration-ms="12574" started-at="2020-12-06T04:18:57Z" finished-at="2020-12-06T04:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.qa.TestCases.TestCase2 -->
+    </test> <!-- TestNGScripts -->
+  </suite> <!-- SeleniumTraining -->
+</testng-results>
